@@ -1,11 +1,11 @@
 import React from 'react';
 import Restaurant from './components/Restaurant';
-import Menu from "./components/menuApi";
-
+// import UseReducer from "./components/UseReducer.jsx"
 const App = () => {
   return (
     <>
       <Restaurant/>
+
     </>
   )
 }
